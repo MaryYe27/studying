@@ -1,0 +1,19 @@
+body {
+    background-color: lightyellow;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 200;
+}
+
+.texti {
+    font-style: italic;
+}
+.textb {
+    font-weight: bold;
+}
